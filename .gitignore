@@ -1,0 +1,7 @@
+phantomjs-1.9.7-linux-x86_64
+*.tgz
+*.phar
+composer.lock
+vendor/
+bin/
+.idea/
