@@ -1,6 +1,8 @@
 MinkGhostDriver
 ===============
 
+[![Build Status](https://travis-ci.org/Adezandee/MinkGhostDriver.svg?branch=master)](https://travis-ci.org/Adezandee/MinkGhostDriver)
+
 GhostDriver (web driver) for Mink initialy forked from [MinkSelenium2Driver](https://github.com/Behat/MinkSelenium2Driver)
 
 Installation
@@ -10,7 +12,7 @@ Installation
 {
     "require": {
         "behat/mink":                   "1.4.*",
-        "adezandee/mink-ghost-driver":  "1.0.*"
+        "adezandee/mink-ghost-driver":  "*"
     }
 }
 ```
